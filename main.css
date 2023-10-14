@@ -1,0 +1,27 @@
+div{
+    text-align: center;
+}
+
+button{
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+    color: whitesmoke;
+
+}
+
+button:hover{
+    cursor:pointer;
+}
+
+.Iniciar-Botao{
+    background-color: green;
+}
+
+.Pausar-Botao{
+    background-color: grey;
+}
+
+.Parar-Botao{
+    background-color: red;
+}
